@@ -2,6 +2,7 @@
 
 
 
+http://training-american-ws.cloudhub.io/api/flights 
 
 http://training-american-ws.cloudhub.io/api/flights/1
 /{flightId}
